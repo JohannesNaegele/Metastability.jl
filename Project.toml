@@ -1,0 +1,13 @@
+name = "Metastability"
+uuid = "b3a03390-9406-4fe7-b517-a0e37231a80c"
+authors = ["Johannes Nägele"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
